@@ -149,7 +149,7 @@ User → Authentication → Dashboard
      → Sharing Module → Brother’s Dashboard
 ```
 
-**Example Flow:**
+**Examples Flow:**
 
 1. User logs in.
 2. Adds today’s tasks.
