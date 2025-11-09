@@ -181,5 +181,6 @@ User → Authentication → Dashboard
 * Analytics dashboard with trends.
 * Google Calendar / Notion integration.
 * Export daily reports as PDF summaries.
+* Track of Every data available about the user
 
 ---
